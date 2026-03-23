@@ -1,6 +1,3 @@
-### ⚠️ Platform notice ⚠️
-This mod is now also available on a [different platform](https://www.curseforge.com/lethal-company/mods/viewextension). This new platform will receive beta updates. Thunderstore will remain supported.
-
 # ViewExtension 🔍
 This is a very simple mod that increases the camera view distance from the vanilla 400m. A new View Distance setting is added in the pausemenu to change this value.
   
